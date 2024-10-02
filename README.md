@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 <img src='https://visitor-badge.laobi.icu/badge?page_id=FC57.readme'/>
 
 🎉 Welcome to my code repository.
-
 <br/>
 
 <p align="center">
