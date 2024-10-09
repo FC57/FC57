@@ -8,15 +8,11 @@
 
 <p>🎉 Welcome to my code repository.</p>
 
-<br/>
-
 - 🕖 I’m currently working on [daily_demo](https://github.com/FC57/daily_demo)
 
 - 🌱 I’m currently learning **React, Webpack, Vite...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FC57](https://github.com/FC57)
-
-<br/>
 
 #### Connect with me:
 
@@ -50,5 +46,5 @@
 #### My contribution graph get eaten by the snake 🐍:
 
 <p align="center">
-  <img src="https://github.com/FC57/FC57n/blob/snake/github-contribution-grid-snake.svg" alt="contribution">
+  <img src="https://github.com/FC57/FC57/blob/snake/github-contribution-grid-snake.svg" alt="contribution">
 </p>
