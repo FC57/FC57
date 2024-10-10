@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react"  />
 </p>
 
-<br/>
-
 #### My Stats:
 
 <p align="center">
@@ -40,8 +38,6 @@
   &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=false&username=FC57" height="160" alt="languages graph"  />
 </p>
-
-<br/>
 
 #### My contribution graph get eaten by the snake 🐍:
 
